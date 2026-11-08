@@ -7,4 +7,5 @@ And yes! I AM EVIL, this IS VIBECODED. But like nobody but me fucking uses this 
 # Usage
 ## Prerequisits
 Blender 2.92
+## Installation
 ``Download release -> open preferences in blender -> add-ons -> click "Install..." -> select 'io_mesh_threejs.zip'``
